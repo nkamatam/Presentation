@@ -65,9 +65,9 @@ Let us try to build a simple Website using AWS
 		* StudentId
 		* StudentName
 * Load some sample table data
-*  
+*  Connect to the webserver
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTU0NzA4MSwxOTkwOTU0Mzk5LC0xMD
-U3MjUwMDQsLTEzMTY1MDEzOF19
+eyJoaXN0b3J5IjpbMjQ3MDQzMTM0LDE5OTA5NTQzOTksLTEwNT
+cyNTAwNCwtMTMxNjUwMTM4XX0=
 -->
