@@ -63,11 +63,11 @@ Let us try to build a simple Website using AWS
 * Create a Sample database table
 	* Student 
 		* StudentId
-	* StudentName
-* Load some sample database table data
+		* StudentName
+* Load some sample table data
 *  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MTQ4Njg1MCwxOTkwOTU0Mzk5LC0xMD
+eyJoaXN0b3J5IjpbLTE0OTU0NzA4MSwxOTkwOTU0Mzk5LC0xMD
 U3MjUwMDQsLTEzMTY1MDEzOF19
 -->
