@@ -30,7 +30,9 @@ Amazon Web Services (AWS) is a secure cloud services platform, offering **comput
 
 [**CloudWatch**](http://aws.amazon.com/cloudwatch/)  provides monitoring for AWS resources including EC2 and EBS. CloudWatch enables administrators to view and collect key metrics and also set a series of alarms to be notified in case of trouble.
 
+#### Why Cloud? Why AWS? 
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzgwNDUyNDldfQ==
+eyJoaXN0b3J5IjpbMTk0MDI1MTM2OSwtMTQzODA0NTI0OV19
 -->
