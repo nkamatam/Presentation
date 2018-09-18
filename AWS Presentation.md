@@ -59,9 +59,11 @@ Let us try to build a simple Website using AWS
 * Create the sample HTML files 
 	* Index.html
 	* health.html
-* Move them to the 
+* Move them to the Apache directory
+* Load some sample database table data
+*  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTYzOTAwNSwxOTkwOTU0Mzk5LC0xMD
+eyJoaXN0b3J5IjpbLTExMjAyMjAyNywxOTkwOTU0Mzk5LC0xMD
 U3MjUwMDQsLTEzMTY1MDEzOF19
 -->
