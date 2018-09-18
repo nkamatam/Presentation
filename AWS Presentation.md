@@ -56,9 +56,12 @@ Let us try to build a simple Website using AWS
 * Create second Security Group that allows only Port 3306 (mysql)
 * Create a RDS instance (MySQL)
 * Create a EC2 instance  (use the user data to install the software needed)
-* 
+* Create the sample HTML files 
+	* Index.html
+	* health.html
+* Move them to the 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI3Mjc5Njk3LDE5OTA5NTQzOTksLTEwNT
-cyNTAwNCwtMTMxNjUwMTM4XX0=
+eyJoaXN0b3J5IjpbLTExNTYzOTAwNSwxOTkwOTU0Mzk5LC0xMD
+U3MjUwMDQsLTEzMTY1MDEzOF19
 -->
