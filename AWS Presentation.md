@@ -51,9 +51,13 @@ Let us try to build a simple Website using AWS
 ![Architecture](https://s3.ap-south-1.amazonaws.com/nkamatam/WebServer.jpg)
 
 ### Steps Involved 
-* Create a 
+* Create Virtual Private Cloud - VPC
+* Create a Security Group that Allows only Port 22 & 80
+* Create second Security Group that allows only Port 3306 (mysql)
+* Create a RDS instance 
+* 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM2NTgxOTQwLDE5OTA5NTQzOTksLTEwNT
+eyJoaXN0b3J5IjpbNTM4MDU2NjA5LDE5OTA5NTQzOTksLTEwNT
 cyNTAwNCwtMTMxNjUwMTM4XX0=
 -->
