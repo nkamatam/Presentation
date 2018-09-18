@@ -57,13 +57,17 @@ Let us try to build a simple Website using AWS
 * Create a RDS instance (MySQL)
 * Create a EC2 instance  (use the user data to install the software needed)
 * Create the sample HTML files 
-	* Index.html
+	* Index.html (something that connects to the database table)
 	* health.html
 * Move them to the Apache directory
+* Create a Sample database table
+	* Student 
+		* StudentId
+	* StudentName
 * Load some sample database table data
 *  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjAyMjAyNywxOTkwOTU0Mzk5LC0xMD
+eyJoaXN0b3J5IjpbLTk5MTQ4Njg1MCwxOTkwOTU0Mzk5LC0xMD
 U3MjUwMDQsLTEzMTY1MDEzOF19
 -->
