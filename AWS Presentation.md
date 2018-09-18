@@ -55,8 +55,8 @@ Let us try to build a simple Website using AWS
 * Create an Internet Gateway
 * Assign it to the new VPC that we created
 * Create a Subnet in that VPC (10.0.1.0/24)
-* Create a Security Group that Allows only Port 22, 80 and 443
-* Create second Security Group that allows only Port 3306 (mysql)
+* Create a Security Group that Allows only Port 22, 80 and 443 (outbound all)
+* Create second Security Group that allows only Port 3306 (mysql) (outbound all)
 * Create a RDS instance (MySQL)
 * Create a EC2 instance  (use the user data to install the software needed)
 * Create the sample HTML files 
@@ -71,7 +71,7 @@ Let us try to build a simple Website using AWS
 *  Connect to the webserver
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDMyOTgxNzMsLTI5MzQyMDIzOSw3OT
-k0MTkwMTgsMjQ3MDQzMTM0LDE5OTA5NTQzOTksLTEwNTcyNTAw
-NCwtMTMxNjUwMTM4XX0=
+eyJoaXN0b3J5IjpbLTU3NDE5MTE2MSwtMjEwMzI5ODE3MywtMj
+kzNDIwMjM5LDc5OTQxOTAxOCwyNDcwNDMxMzQsMTk5MDk1NDM5
+OSwtMTA1NzI1MDA0LC0xMzE2NTAxMzhdfQ==
 -->
