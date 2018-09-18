@@ -21,21 +21,15 @@ Route53  is a highly available, scalable, and feature rich domain name service (
 #### Elastic Compute Cloud
 
 [Elastic Compute Cloud (EC2)](http://aws.amazon.com/ec2/)   provides flexible, on-demand computing resources with a “pay as you go” pricing model. 
-### Elastic Block Store
 
-**What is it?**  [Elastic block store (EBS)](http://aws.amazon.com/ebs/)  provides persist storage volumes that attach to EC2 instances to allow you to persist data past the lifespan of a single EC2. Due to the architecture of elastic compute cloud, all the storage systems on an instance are ephemeral. This means that when an instance is terminated all the data stored on that instance is lost. EBS addresses this issue by providing persistent storage that appears on instances as a regular hard drive.
+#### Elastic Block Store
 
-**Should you use it?**  Maybe. If you’re using EC2, you’ll have to weigh the choice between using only ephemeral instance storage or using EBS to persist data. Beyond that, EBS has well documented performance issues so you’ll have to be cognizant of that while designing your infrastructure.
+[Elastic block store (EBS)](http://aws.amazon.com/ebs/)  provides persist storage volumes that attach to EC2 instances to allow you to persist data past the lifespan of a single EC2. 
 
-### CloudWatch
+#### CloudWatch
 
-**What is it?**  [CloudWatch](http://aws.amazon.com/cloudwatch/)  provides monitoring for AWS resources including EC2 and EBS. CloudWatch enables administrators to view and collect key metrics and also set a series of alarms to be notified in case of trouble. In addition, CloudWatch can aggregate metrics across EC2 instances which provides useful insight into how your entire stack is operating.
-
-**Should you use it?**  Probably. CloudWatch is significantly easier to setup and use than tools like  [Nagios](http://www.nagios.org/)  but its also less feature rich. We’ve had some success coupling CloudWatch with  [PagerDuty](http://www.pagerduty.com/)  to provide alerts in case of critical service interruptions. You’ll probably need additional monitoring on top of CloudWatch but its certainly a good baseline to start with.
-
-Anyway, the AWS ecosystem includes several additional services but these are the ones that I felt are key to getting started on AWS. We haven’t had a chance to use it yet but  [Redshift](http://aws.amazon.com/redshift/)  looks like it’s an exciting addition which will probably make this list soon. As always, comments and feedback welcome.
-
+[CloudWatch](http://aws.amazon.com/cloudwatch/)  provides monitoring for AWS resources including EC2 and EBS. CloudWatch enables administrators to view and collect key metrics and also set a series of alarms to be notified in case of trouble.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMTE1NjA5MywxNTQ5NzIzNzc1LDk3MT
-E3NzQwNF19
+eyJoaXN0b3J5IjpbLTE1NjI0NDA5NjQsMTU0OTcyMzc3NSw5Nz
+ExNzc0MDRdfQ==
 -->
