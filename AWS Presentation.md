@@ -47,9 +47,11 @@ Cap Ex vs Op Ex<br>
 ## Simple Website with AWS
 Let us try to build a simple Website using AWS
 
-##
+### Architecture Diagram
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTcyNTAwNCwtMTMxNjUwMTM4XX0=
+eyJoaXN0b3J5IjpbMTk5MDk1NDM5OSwtMTA1NzI1MDA0LC0xMz
+E2NTAxMzhdfQ==
 -->
