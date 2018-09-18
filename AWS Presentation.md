@@ -24,12 +24,12 @@ Amazon Web Services (AWS) is a secure cloud services platform, offering **comput
 
 #### Elastic Block Store
 
-[Elastic block store (EBS)](http://aws.amazon.com/ebs/)  provides persist storage volumes that attach to EC2 instances to allow you to persist data past the lifespan of a single EC2. 
+[**EBS**](http://aws.amazon.com/ebs/)  provides persist storage volumes that attach to EC2 instances to allow you to persist data past the lifespan of a single EC2. 
 
 #### CloudWatch
 
-[CloudWatch](http://aws.amazon.com/cloudwatch/)  provides monitoring for AWS resources including EC2 and EBS. CloudWatch enables administrators to view and collect key metrics and also set a series of alarms to be notified in case of trouble.
+[**CloudWatch**](http://aws.amazon.com/cloudwatch/)  provides monitoring for AWS resources including EC2 and EBS. CloudWatch enables administrators to view and collect key metrics and also set a series of alarms to be notified in case of trouble.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzOTAzMTQ4NCwxNTQ5NzIzNzc1LDk3MT
-E3NzQwNF19
+eyJoaXN0b3J5IjpbLTE4MzYxMjk2MjgsMTU0OTcyMzc3NSw5Nz
+ExNzc0MDRdfQ==
 -->
