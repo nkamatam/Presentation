@@ -8,19 +8,11 @@ Amazon Web Services (AWS) is a secure cloud services platform, offering **comput
 
 #### Route53
 
-Route53  is a highly available, scalable, and feature rich domain name service (DNS) web service. What a DNS service does is translate a domain name like “[setfive.com](http://setfive.com/)” into an IP address like 64.22.80.79 which allows a client’s computer to “find” the correct server for a given domain name. In addition, Route53 also has several advanced features normally only available in pricey enterprise DNS solutions. Route53 would typically replace the DNS service provided by your registrar like GoDaddy or  [Register.com](http://register.com/).
+Route53  is a highly available, scalable, and feature rich domain name service (DNS) web service. Route53 can even register your domain name.
 
-**Should you use it?**  Definitely. Allow it isn’t free, after last year’s prolonged  [GoDaddy outage](http://en.wikipedia.org/wiki/Go_Daddy#Service_outage)  it’s clear that DNS is a critical component and using a company that treats it as such is important.
+#### Identity and Access Management
 
-### Simple Email Service
-
-**What is it?**  [Simple Email Service (SES)](http://aws.amazon.com/ses/)  is a hosted transactional email service. It allows you to easily send highly deliverable emails using a RESTful API call or via regular SMTP without running your own email infrastructure.
-
-**Should you use it?**  Maybe. SES is comparable to services like  [SendGrid](http://sendgrid.com/)  in that it offers a highly deliverable email service. Although it is missing some of the features that you’ll find on SendGrid, its pricing is attractive and the integration is straightforward. We normally use SES for application emails (think “Forgot your password”) but then use MailChimp or SendGrid for marketing blasts and that seems to work pretty well.
-
-### Identity and Access Management
-
-**What is it?**  [Identity and access management (IAM)](http://aws.amazon.com/iam/)  provides enhanced security and identity management for your AWS account. In addition, it allows you to enable “multi factor” authentication to enhance the security of your AWS account.
+[Identity and access management (IAM)](http://aws.amazon.com/iam/)  provides enhanced security and identity management for your AWS account. In addition, it allows you to enable “multi factor” authentication to enhance the security of your AWS account.
 
 **Should you use it?**  Definitely. If you have more than 1 person accessing your AWS account using IAM will allow everyone to get a separate account with fine grained permissions. Multi factor authentication is also critically important since a compromise at the infrastructure level would be catastrophic for most businesses. Read more about IAM  [here](http://shout.setfive.com/2013/03/14/amazon-aws-you-should-enable-iam/).
 
@@ -51,6 +43,6 @@ Route53  is a highly available, scalable, and feature rich domain name service (
 Anyway, the AWS ecosystem includes several additional services but these are the ones that I felt are key to getting started on AWS. We haven’t had a chance to use it yet but  [Redshift](http://aws.amazon.com/redshift/)  looks like it’s an exciting addition which will probably make this list soon. As always, comments and feedback welcome.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NzY4MDI4NywxNTQ5NzIzNzc1LDk3MT
+eyJoaXN0b3J5IjpbMTM0NzU1MTE1MywxNTQ5NzIzNzc1LDk3MT
 E3NzQwNF19
 -->
