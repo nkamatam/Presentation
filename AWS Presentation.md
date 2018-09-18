@@ -35,7 +35,7 @@ Amazon Web Services (AWS) is a secure cloud services platform, offering **comput
 
 #### Why Cloud? Why AWS? 
 Ability to Experiment with little upfront cost
-Scalability
+Scalability<br>
 Operational Ease
 Security
 Competitiveness
@@ -51,5 +51,5 @@ Let us try to build a simple Website using AWS
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NDEwNTY0OF19
+eyJoaXN0b3J5IjpbMTc5NjQ2ODM1NCwtMzk0MTA1NjQ4XX0=
 -->
