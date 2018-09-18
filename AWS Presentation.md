@@ -55,9 +55,10 @@ Let us try to build a simple Website using AWS
 * Create a Security Group that Allows only Port 22 & 80
 * Create second Security Group that allows only Port 3306 (mysql)
 * Create a RDS instance (MySQL)
-* Create a EC2 instance
+* Create a EC2 instance  (use the user data to install the software needed)
+* 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTczMTM2MzYsMTk5MDk1NDM5OSwtMT
-A1NzI1MDA0LC0xMzE2NTAxMzhdfQ==
+eyJoaXN0b3J5IjpbMjI3Mjc5Njk3LDE5OTA5NTQzOTksLTEwNT
+cyNTAwNCwtMTMxNjUwMTM4XX0=
 -->
