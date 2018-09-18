@@ -48,10 +48,10 @@ Cap Ex vs Op Ex<br>
 Let us try to build a simple Website using AWS
 
 ### Architecture Diagram
-
+![Architecture](https://s3.ap-south-1.amazonaws.com/nkamatam/WebServer.jpg)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MDk1NDM5OSwtMTA1NzI1MDA0LC0xMz
-E2NTAxMzhdfQ==
+eyJoaXN0b3J5IjpbLTg0MDI2NTY5OCwxOTkwOTU0Mzk5LC0xMD
+U3MjUwMDQsLTEzMTY1MDEzOF19
 -->
