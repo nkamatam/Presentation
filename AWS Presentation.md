@@ -8,7 +8,7 @@ Amazon Web Services (AWS) is a secure cloud services platform, offering **comput
 
 #### Route53
 
-Route53  is a highly available, scalable, and feature rich domain name service (DNS) web service. Route53 can even register your domain name.
+[Route53](http://aws.amazon.com/r53)  is a highly available, scalable, and feature rich domain name service (DNS) web service. Route53 can even register your domain name.
 
 #### Identity and Access Management
 
@@ -30,6 +30,6 @@ Route53  is a highly available, scalable, and feature rich domain name service (
 
 [CloudWatch](http://aws.amazon.com/cloudwatch/)  provides monitoring for AWS resources including EC2 and EBS. CloudWatch enables administrators to view and collect key metrics and also set a series of alarms to be notified in case of trouble.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjI0NDA5NjQsMTU0OTcyMzc3NSw5Nz
-ExNzc0MDRdfQ==
+eyJoaXN0b3J5IjpbLTcwODczMTAxNiwxNTQ5NzIzNzc1LDk3MT
+E3NzQwNF19
 -->
