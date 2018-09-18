@@ -4,7 +4,10 @@
 
 Amazon Web Services (AWS) is a secure cloud services platform, offering **compute power, database storage, content delivery and other functionality** to help businesses scale and grow.
 
+
 ### What are important AWS Services that we need to know 
+
+![Image result for number of cloud services aws](http://www.cyberphoton.com/wp-content/uploads/2016/02/aws-cloud-computing.jpg)
 
 #### Route53
 
@@ -31,8 +34,23 @@ Amazon Web Services (AWS) is a secure cloud services platform, offering **comput
 [**CloudWatch**](http://aws.amazon.com/cloudwatch/)  provides monitoring for AWS resources including EC2 and EBS. CloudWatch enables administrators to view and collect key metrics and also set a series of alarms to be notified in case of trouble.
 
 #### Why Cloud? Why AWS? 
+Ability to Experiment with little upfront cost
+Scalability
+Operational Ease
+Security
+Competitiveness
+Cap Ex vs Op Ex
+
+#### Why AWS?
+![Image result for cloud magic quadrant 2018](https://regmedia.co.uk/2018/05/29/gartner_iaas_mq_2018_supplied.jpg)
+
+## Simple Website with AWS
+Let us try to build a simple Website using AWS
+
+##
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MDI1MTM2OSwtMTQzODA0NTI0OV19
+eyJoaXN0b3J5IjpbLTM5NDEwNTY0OCwxOTQwMjUxMzY5LC0xND
+M4MDQ1MjQ5XX0=
 -->
