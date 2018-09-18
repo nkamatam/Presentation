@@ -12,7 +12,7 @@ Amazon Web Services (AWS) is a secure cloud services platform, offering **comput
 
 #### Identity and Access Management
 
-[**IAM**)](http://aws.amazon.com/iam/)  provides enhanced security and identity management for your AWS account. In addition, it allows you to enable “multi factor” authentication to enhance the security of your AWS account.
+[**IAM**](http://aws.amazon.com/iam/)  provides enhanced security and identity management for your AWS account. In addition, it allows you to enable “multi factor” authentication to enhance the security of your AWS account.
 
 #### Simple Storage Service
 
@@ -29,7 +29,9 @@ Amazon Web Services (AWS) is a secure cloud services platform, offering **comput
 #### CloudWatch
 
 [**CloudWatch**](http://aws.amazon.com/cloudwatch/)  provides monitoring for AWS resources including EC2 and EBS. CloudWatch enables administrators to view and collect key metrics and also set a series of alarms to be notified in case of trouble.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzYxMjk2MjgsMTU0OTcyMzc3NSw5Nz
+eyJoaXN0b3J5IjpbLTE0MzgwNDUyNDksMTU0OTcyMzc3NSw5Nz
 ExNzc0MDRdfQ==
 -->
