@@ -50,8 +50,10 @@ Let us try to build a simple Website using AWS
 ### Architecture Diagram
 ![Architecture](https://s3.ap-south-1.amazonaws.com/nkamatam/WebServer.jpg)
 
+### Steps Involved 
+* Create a 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MDI2NTY5OCwxOTkwOTU0Mzk5LC0xMD
-U3MjUwMDQsLTEzMTY1MDEzOF19
+eyJoaXN0b3J5IjpbNDM2NTgxOTQwLDE5OTA5NTQzOTksLTEwNT
+cyNTAwNCwtMTMxNjUwMTM4XX0=
 -->
