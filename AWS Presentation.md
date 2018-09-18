@@ -54,10 +54,10 @@ Let us try to build a simple Website using AWS
 * Create Virtual Private Cloud - VPC
 * Create a Security Group that Allows only Port 22 & 80
 * Create second Security Group that allows only Port 3306 (mysql)
-* Create a RDS instance 
-* 
+* Create a RDS instance (MySQL)
+* Create a EC2 instance
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM4MDU2NjA5LDE5OTA5NTQzOTksLTEwNT
-cyNTAwNCwtMTMxNjUwMTM4XX0=
+eyJoaXN0b3J5IjpbLTIwOTczMTM2MzYsMTk5MDk1NDM5OSwtMT
+A1NzI1MDA0LC0xMzE2NTAxMzhdfQ==
 -->
