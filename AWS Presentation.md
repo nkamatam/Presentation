@@ -50,6 +50,10 @@ Let us try to build a simple Website using AWS
 ### Architecture Diagram
 ![Architecture](https://s3.ap-south-1.amazonaws.com/nkamatam/WebServer.jpg)
 
+### Basics before we start
+* VPC - Virtual Private Cloud
+* Subnet - A section of VPC that has a 
+
 ### Steps Involved 
 * Create Virtual Private Cloud - VPC (10.0.0.0/16)
 * Create an Internet Gateway
@@ -75,8 +79,8 @@ Let us try to build a simple Website using AWS
 # This is the end of the document
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMjQ5MTA0NywtMzQ0NTc5NjQ5LC01Nz
-QxOTExNjEsLTIxMDMyOTgxNzMsLTI5MzQyMDIzOSw3OTk0MTkw
-MTgsMjQ3MDQzMTM0LDE5OTA5NTQzOTksLTEwNTcyNTAwNCwtMT
-MxNjUwMTM4XX0=
+eyJoaXN0b3J5IjpbNDA1MzE0NTQ3LDE2MDI0OTEwNDcsLTM0ND
+U3OTY0OSwtNTc0MTkxMTYxLC0yMTAzMjk4MTczLC0yOTM0MjAy
+MzksNzk5NDE5MDE4LDI0NzA0MzEzNCwxOTkwOTU0Mzk5LC0xMD
+U3MjUwMDQsLTEzMTY1MDEzOF19
 -->
