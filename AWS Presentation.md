@@ -53,8 +53,8 @@ Let us try to build a simple Website using AWS
 ### Basics before we start
 * VPC - Virtual Private Cloud
 * Subnet - A private/public section of VPC that has a Subnet mask
-*  Availability Zone - Can be thought of as  a _Data Center_ is a region
-* 
+*  Availability Zone - Can be thought of as  a _Data Center_ in a region
+* Port and IP Address -  IP Address is a unique way to identify a networked entity (Port is a number assigned to a service)
 
 ### Steps Involved 
 * Create Virtual Private Cloud - VPC (10.0.0.0/16)
@@ -81,7 +81,7 @@ Let us try to build a simple Website using AWS
 # This is the end of the document
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjk1NTExNTksMTYwMjQ5MTA0NywtMz
+eyJoaXN0b3J5IjpbLTEyNDAyMTgxMDEsMTYwMjQ5MTA0NywtMz
 Q0NTc5NjQ5LC01NzQxOTExNjEsLTIxMDMyOTgxNzMsLTI5MzQy
 MDIzOSw3OTk0MTkwMTgsMjQ3MDQzMTM0LDE5OTA5NTQzOTksLT
 EwNTcyNTAwNCwtMTMxNjUwMTM4XX0=
