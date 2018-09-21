@@ -55,7 +55,7 @@ Let us try to build a simple Website using AWS
 * Subnet - A private/public section of VPC that has a Subnet mask
 *  Availability Zone - Can be thought of as  a _Data Center_ in a region
 * Port and IP Address -  IP Address is a unique way to identify a networked entity (Port is a standard/non-standard number assigned to a service)
-* Webserver (A demon that is running on a server operating on a port - usually 80 and servicing HTTP requests 
+* Webserver - A demon that is running on a server operating on a port (usually port 80) and servicing HTTP requests 
 
 ### Steps Involved 
 * Create Virtual Private Cloud - VPC (10.0.0.0/16)
@@ -82,8 +82,8 @@ Let us try to build a simple Website using AWS
 # This is the end of the document
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc4NDIzNjY5LDE2MDI0OTEwNDcsLTM0ND
-U3OTY0OSwtNTc0MTkxMTYxLC0yMTAzMjk4MTczLC0yOTM0MjAy
-MzksNzk5NDE5MDE4LDI0NzA0MzEzNCwxOTkwOTU0Mzk5LC0xMD
-U3MjUwMDQsLTEzMTY1MDEzOF19
+eyJoaXN0b3J5IjpbLTEwNzIyMjk0OSwxNjAyNDkxMDQ3LC0zND
+Q1Nzk2NDksLTU3NDE5MTE2MSwtMjEwMzI5ODE3MywtMjkzNDIw
+MjM5LDc5OTQxOTAxOCwyNDcwNDMxMzQsMTk5MDk1NDM5OSwtMT
+A1NzI1MDA0LC0xMzE2NTAxMzhdfQ==
 -->
