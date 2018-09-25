@@ -50,6 +50,11 @@ Let us try to build a simple Website using AWS
 ### Architecture Diagram
 ![Architecture](https://s3.ap-south-1.amazonaws.com/nkamatam/WebServer.jpg)
 
+### Steps involved
+* Create a SG to allow port 443, 80 and 22
+* Create a SG to allow port 3306
+* C
+
 ### Basics before we start
 * VPC - Virtual Private Cloud
 * Subnet - A private/public section of VPC that has a Subnet mask
@@ -83,7 +88,7 @@ Let us try to build a simple Website using AWS
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYwMjI2MzM1LC0xMDcyMjI5NDksMTYwMj
+eyJoaXN0b3J5IjpbNDA2MTU2ODQ5LC0xMDcyMjI5NDksMTYwMj
 Q5MTA0NywtMzQ0NTc5NjQ5LC01NzQxOTExNjEsLTIxMDMyOTgx
 NzMsLTI5MzQyMDIzOSw3OTk0MTkwMTgsMjQ3MDQzMTM0LDE5OT
 A5NTQzOTksLTEwNTcyNTAwNCwtMTMxNjUwMTM4XX0=
