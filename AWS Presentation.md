@@ -55,6 +55,7 @@ Let us try to build a simple Website using AWS
 * Create a database and choose SG2
 * Create a SG2 to allow port 3306
 * Create a server and choose SG1
+* SSH to the server
 * Create a Table on the Database
 * Write a simple WebPage and move it to the server
 Access the website from outside of Invesco network
@@ -94,8 +95,8 @@ Access the website from outside of Invesco network
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzU1ODA1NzIsLTEwNzIyMjk0OSwxNj
-AyNDkxMDQ3LC0zNDQ1Nzk2NDksLTU3NDE5MTE2MSwtMjEwMzI5
-ODE3MywtMjkzNDIwMjM5LDc5OTQxOTAxOCwyNDcwNDMxMzQsMT
-k5MDk1NDM5OSwtMTA1NzI1MDA0LC0xMzE2NTAxMzhdfQ==
+eyJoaXN0b3J5IjpbMTY1MzA1NDkzMywtMTA3MjIyOTQ5LDE2MD
+I0OTEwNDcsLTM0NDU3OTY0OSwtNTc0MTkxMTYxLC0yMTAzMjk4
+MTczLC0yOTM0MjAyMzksNzk5NDE5MDE4LDI0NzA0MzEzNCwxOT
+kwOTU0Mzk5LC0xMDU3MjUwMDQsLTEzMTY1MDEzOF19
 -->
