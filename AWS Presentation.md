@@ -52,10 +52,10 @@ Let us try to build a simple Website using AWS
 
 ### Steps involved
 * Create a SG1 to allow port 443, 80 and 22
+* Create a database and choose SG2
 * Create a SG2 to allow port 3306
 * Create a server and choose SG1
-* Create a database and choose SG2
-* Create a database 
+* Create a Table on the 
 
 ### Basics before we start
 * VPC - Virtual Private Cloud
@@ -90,7 +90,7 @@ Let us try to build a simple Website using AWS
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMTg1Mzg2OCwtMTA3MjIyOTQ5LDE2MD
+eyJoaXN0b3J5IjpbLTM1MDkzMjM5NSwtMTA3MjIyOTQ5LDE2MD
 I0OTEwNDcsLTM0NDU3OTY0OSwtNTc0MTkxMTYxLC0yMTAzMjk4
 MTczLC0yOTM0MjAyMzksNzk5NDE5MDE4LDI0NzA0MzEzNCwxOT
 kwOTU0Mzk5LC0xMDU3MjUwMDQsLTEzMTY1MDEzOF19
