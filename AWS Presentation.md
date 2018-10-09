@@ -101,7 +101,7 @@ Access the website from outside of Invesco network
 	* Web-services
 	* APIs
 	* Serverless
-* Do more experiments for being innovative but keep the cost of the experimentation has to be minimal
+* Do more experiments for being innovative but keep the cost of the experimentation has to be minimal (Ex: Toad Dev Ops)
 * Developers need to get used to the methodology/pace of AWS
     * Thinking Time to market and cost-optimization
     * Lines are getting thinner between developer-infrastructure-network
@@ -117,9 +117,10 @@ Access the website from outside of Invesco network
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIwNDA4Nzk2LC04MDIxMDAzMDAsLTY1Nj
-c3NDUxNCwxNjUzMDU0OTMzLC0xMDcyMjI5NDksMTYwMjQ5MTA0
-NywtMzQ0NTc5NjQ5LC01NzQxOTExNjEsLTIxMDMyOTgxNzMsLT
-I5MzQyMDIzOSw3OTk0MTkwMTgsMjQ3MDQzMTM0LDE5OTA5NTQz
-OTksLTEwNTcyNTAwNCwtMTMxNjUwMTM4XX0=
+eyJoaXN0b3J5IjpbLTE4NzY4NDk4ODcsNDIwNDA4Nzk2LC04MD
+IxMDAzMDAsLTY1Njc3NDUxNCwxNjUzMDU0OTMzLC0xMDcyMjI5
+NDksMTYwMjQ5MTA0NywtMzQ0NTc5NjQ5LC01NzQxOTExNjEsLT
+IxMDMyOTgxNzMsLTI5MzQyMDIzOSw3OTk0MTkwMTgsMjQ3MDQz
+MTM0LDE5OTA5NTQzOTksLTEwNTcyNTAwNCwtMTMxNjUwMTM4XX
+0=
 -->
