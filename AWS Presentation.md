@@ -91,12 +91,57 @@ Access the website from outside of Invesco network
 * Load some sample table data
 *  Connect to the webserver
 * 
+### Do we all jump to AWS
+* We can’t lock-stock-and-barrel goto cloud
+    
+* Client-Server apps need to be on-premise
+	* Cost of taking them to the cloud is high
+    
+3.    
+    
+
+4.  Cloud is not a solution to an architectural problem
+    
+
+5.  However, it might give someone a cushion
+    
+
+6.  Need to architect the applications right to be cloud-ready
+    
+
+7.  Web-services
+    
+8.  APIs
+    
+9.  Serverless
+    
+
+10.  Do more experiments for being innovative but keep the cost of the experimentation has to be minimal
+    
+11.  Developers need to get used to the methodology/pace of AWS
+    
+
+12.  Thinking Time to market and cost-optimization
+    
+13.  Lines are getting thinner between developer-infrastructure-network
+    
+14.  Old roles/skills are vanishing
+    
+
+15.  Informatica is not being used now
+    
+
+16.  People need to change the mindset
+    
+
+17.  No more “I am a developer”
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MzA1NDkzMywtMTA3MjIyOTQ5LDE2MD
-I0OTEwNDcsLTM0NDU3OTY0OSwtNTc0MTkxMTYxLC0yMTAzMjk4
-MTczLC0yOTM0MjAyMzksNzk5NDE5MDE4LDI0NzA0MzEzNCwxOT
-kwOTU0Mzk5LC0xMDU3MjUwMDQsLTEzMTY1MDEzOF19
+eyJoaXN0b3J5IjpbMTAwMjgxNDk3LDE2NTMwNTQ5MzMsLTEwNz
+IyMjk0OSwxNjAyNDkxMDQ3LC0zNDQ1Nzk2NDksLTU3NDE5MTE2
+MSwtMjEwMzI5ODE3MywtMjkzNDIwMjM5LDc5OTQxOTAxOCwyND
+cwNDMxMzQsMTk5MDk1NDM5OSwtMTA1NzI1MDA0LC0xMzE2NTAx
+MzhdfQ==
 -->
