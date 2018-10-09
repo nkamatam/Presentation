@@ -93,7 +93,8 @@ Access the website from outside of Invesco network
 
 ### When do we move to Cloud ?
  
-* We can’t lock-stock-and-barrel goto cloud  
+* We can’t lock-stock-and-barrel goto cloud
+* Do not go to cloud just for the sake of going to cloud  
 * Client-Server apps need to be on-premise
 	* Cost of taking them to the cloud is high
  * Cloud is not a solution to an architectural problem
@@ -118,10 +119,10 @@ Access the website from outside of Invesco network
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTA4MTU1NjAsLTE4NzY4NDk4ODcsND
-IwNDA4Nzk2LC04MDIxMDAzMDAsLTY1Njc3NDUxNCwxNjUzMDU0
-OTMzLC0xMDcyMjI5NDksMTYwMjQ5MTA0NywtMzQ0NTc5NjQ5LC
-01NzQxOTExNjEsLTIxMDMyOTgxNzMsLTI5MzQyMDIzOSw3OTk0
-MTkwMTgsMjQ3MDQzMTM0LDE5OTA5NTQzOTksLTEwNTcyNTAwNC
-wtMTMxNjUwMTM4XX0=
+eyJoaXN0b3J5IjpbMTgyMTc0MTcwNSwtMTY5MDgxNTU2MCwtMT
+g3Njg0OTg4Nyw0MjA0MDg3OTYsLTgwMjEwMDMwMCwtNjU2Nzc0
+NTE0LDE2NTMwNTQ5MzMsLTEwNzIyMjk0OSwxNjAyNDkxMDQ3LC
+0zNDQ1Nzk2NDksLTU3NDE5MTE2MSwtMjEwMzI5ODE3MywtMjkz
+NDIwMjM5LDc5OTQxOTAxOCwyNDcwNDMxMzQsMTk5MDk1NDM5OS
+wtMTA1NzI1MDA0LC0xMzE2NTAxMzhdfQ==
 -->
