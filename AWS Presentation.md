@@ -110,16 +110,16 @@ Access the website from outside of Invesco network
 
 ### What do we need?
 * Need the AWS knowledge
-* Need to get a strategy around compliance around cloud
 * Need a DevOps commitment 
+* Need to get a strategy around compliance around cloud
 * Need to come with a no-red tape approach
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMjEwMDMwMCwtNjU2Nzc0NTE0LDE2NT
-MwNTQ5MzMsLTEwNzIyMjk0OSwxNjAyNDkxMDQ3LC0zNDQ1Nzk2
-NDksLTU3NDE5MTE2MSwtMjEwMzI5ODE3MywtMjkzNDIwMjM5LD
-c5OTQxOTAxOCwyNDcwNDMxMzQsMTk5MDk1NDM5OSwtMTA1NzI1
-MDA0LC0xMzE2NTAxMzhdfQ==
+eyJoaXN0b3J5IjpbNDIwNDA4Nzk2LC04MDIxMDAzMDAsLTY1Nj
+c3NDUxNCwxNjUzMDU0OTMzLC0xMDcyMjI5NDksMTYwMjQ5MTA0
+NywtMzQ0NTc5NjQ5LC01NzQxOTExNjEsLTIxMDMyOTgxNzMsLT
+I5MzQyMDIzOSw3OTk0MTkwMTgsMjQ3MDQzMTM0LDE5OTA5NTQz
+OTksLTEwNTcyNTAwNCwtMTMxNjUwMTM4XX0=
 -->
