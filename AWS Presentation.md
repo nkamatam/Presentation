@@ -90,17 +90,23 @@ Access the website from outside of Invesco network
 		* StudentName
 * Load some sample table data
 *  Connect to the webserver
-* 
-### Do we all jump to AWS
+
+### When do we move to Cloud ?
+ 
 * We can’t lock-stock-and-barrel goto cloud  
 * Client-Server apps need to be on-premise
 	* Cost of taking them to the cloud is high
  * Cloud is not a solution to an architectural problem
-	 * However, it might give someone a cushion
+	 * It might give someone a cushion
  * Need to architect the applications right to be cloud-ready
 	* Web-services
 	* APIs
 	* Serverless
+### What do we need?
+* Need the AWS knowledge
+* Need a DevOps commitment 
+* Need to get a strategy around compliance around cloud
+* Need to come with a no-red tape approach
 * Do more experiments for being innovative but keep the cost of the experimentation has to be minimal (Ex: Toad Dev Ops)
 * Developers need to get used to the methodology/pace of AWS
     * Thinking Time to market and cost-optimization
@@ -108,19 +114,14 @@ Access the website from outside of Invesco network
     * Old roles/skills are vanishing
 * People need to change the mindset - No more “I am a developer”
 
-### What do we need?
-* Need the AWS knowledge
-* Need a DevOps commitment 
-* Need to get a strategy around compliance around cloud
-* Need to come with a no-red tape approach
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzY4NDk4ODcsNDIwNDA4Nzk2LC04MD
-IxMDAzMDAsLTY1Njc3NDUxNCwxNjUzMDU0OTMzLC0xMDcyMjI5
-NDksMTYwMjQ5MTA0NywtMzQ0NTc5NjQ5LC01NzQxOTExNjEsLT
-IxMDMyOTgxNzMsLTI5MzQyMDIzOSw3OTk0MTkwMTgsMjQ3MDQz
-MTM0LDE5OTA5NTQzOTksLTEwNTcyNTAwNCwtMTMxNjUwMTM4XX
-0=
+eyJoaXN0b3J5IjpbLTE2OTA4MTU1NjAsLTE4NzY4NDk4ODcsND
+IwNDA4Nzk2LC04MDIxMDAzMDAsLTY1Njc3NDUxNCwxNjUzMDU0
+OTMzLC0xMDcyMjI5NDksMTYwMjQ5MTA0NywtMzQ0NTc5NjQ5LC
+01NzQxOTExNjEsLTIxMDMyOTgxNzMsLTI5MzQyMDIzOSw3OTk0
+MTkwMTgsMjQ3MDQzMTM0LDE5OTA5NTQzOTksLTEwNTcyNTAwNC
+wtMTMxNjUwMTM4XX0=
 -->
