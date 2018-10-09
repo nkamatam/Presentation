@@ -92,19 +92,16 @@ Access the website from outside of Invesco network
 *  Connect to the webserver
 * 
 ### Do we all jump to AWS
-* We can’t lock-stock-and-barrel goto cloud
-    
+* We can’t lock-stock-and-barrel goto cloud  
 * Client-Server apps need to be on-premise
 	* Cost of taking them to the cloud is high
  * Cloud is not a solution to an architectural problem
 	 * However, it might give someone a cushion
  * Need to architect the applications right to be cloud-ready
-    
 	* Web-services
 	* APIs
 	* Serverless
 * Do more experiments for being innovative but keep the cost of the experimentation has to be minimal
-    
 * Developers need to get used to the methodology/pace of AWS
     * Thinking Time to market and cost-optimization
     * Lines are getting thinner between developer-infrastructure-network
@@ -114,9 +111,9 @@ Access the website from outside of Invesco network
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg0NjQzMDY4LDE2NTMwNTQ5MzMsLTEwNz
-IyMjk0OSwxNjAyNDkxMDQ3LC0zNDQ1Nzk2NDksLTU3NDE5MTE2
-MSwtMjEwMzI5ODE3MywtMjkzNDIwMjM5LDc5OTQxOTAxOCwyND
-cwNDMxMzQsMTk5MDk1NDM5OSwtMTA1NzI1MDA0LC0xMzE2NTAx
-MzhdfQ==
+eyJoaXN0b3J5IjpbLTY1Njc3NDUxNCwxNjUzMDU0OTMzLC0xMD
+cyMjI5NDksMTYwMjQ5MTA0NywtMzQ0NTc5NjQ5LC01NzQxOTEx
+NjEsLTIxMDMyOTgxNzMsLTI5MzQyMDIzOSw3OTk0MTkwMTgsMj
+Q3MDQzMTM0LDE5OTA5NTQzOTksLTEwNTcyNTAwNCwtMTMxNjUw
+MTM4XX0=
 -->
