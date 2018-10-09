@@ -108,12 +108,18 @@ Access the website from outside of Invesco network
     * Old roles/skills are vanishing
 * People need to change the mindset - No more “I am a developer”
 
+### What do we need?
+* Need the AWS knowledge
+* Need to get a strategy around compliance around cloud
+* Need a DevOps commitment 
+* Need to come with a no-red tape approach
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1Njc3NDUxNCwxNjUzMDU0OTMzLC0xMD
-cyMjI5NDksMTYwMjQ5MTA0NywtMzQ0NTc5NjQ5LC01NzQxOTEx
-NjEsLTIxMDMyOTgxNzMsLTI5MzQyMDIzOSw3OTk0MTkwMTgsMj
-Q3MDQzMTM0LDE5OTA5NTQzOTksLTEwNTcyNTAwNCwtMTMxNjUw
-MTM4XX0=
+eyJoaXN0b3J5IjpbLTgwMjEwMDMwMCwtNjU2Nzc0NTE0LDE2NT
+MwNTQ5MzMsLTEwNzIyMjk0OSwxNjAyNDkxMDQ3LC0zNDQ1Nzk2
+NDksLTU3NDE5MTE2MSwtMjEwMzI5ODE3MywtMjkzNDIwMjM5LD
+c5OTQxOTAxOCwyNDcwNDMxMzQsMTk5MDk1NDM5OSwtMTA1NzI1
+MDA0LC0xMzE2NTAxMzhdfQ==
 -->
