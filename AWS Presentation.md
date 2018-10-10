@@ -106,6 +106,10 @@ Access the website from outside of Invesco network
 
 ![Lambda](https://cdn-images-1.medium.com/max/1600/1*RZaiM5ULzFiObnpqU2wShg.png)
 
+* Lambda is server less
+* Inexpensive
+	* 
+
 
 ### When do we move to Cloud ?
  
@@ -135,10 +139,10 @@ Access the website from outside of Invesco network
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NDk4NjUwMiwxODIxNzQxNzA1LC0xNj
-kwODE1NTYwLC0xODc2ODQ5ODg3LDQyMDQwODc5NiwtODAyMTAw
-MzAwLC02NTY3NzQ1MTQsMTY1MzA1NDkzMywtMTA3MjIyOTQ5LD
-E2MDI0OTEwNDcsLTM0NDU3OTY0OSwtNTc0MTkxMTYxLC0yMTAz
-Mjk4MTczLC0yOTM0MjAyMzksNzk5NDE5MDE4LDI0NzA0MzEzNC
-wxOTkwOTU0Mzk5LC0xMDU3MjUwMDQsLTEzMTY1MDEzOF19
+eyJoaXN0b3J5IjpbODU2ODk4MjAzLDE4MjE3NDE3MDUsLTE2OT
+A4MTU1NjAsLTE4NzY4NDk4ODcsNDIwNDA4Nzk2LC04MDIxMDAz
+MDAsLTY1Njc3NDUxNCwxNjUzMDU0OTMzLC0xMDcyMjI5NDksMT
+YwMjQ5MTA0NywtMzQ0NTc5NjQ5LC01NzQxOTExNjEsLTIxMDMy
+OTgxNzMsLTI5MzQyMDIzOSw3OTk0MTkwMTgsMjQ3MDQzMTM0LD
+E5OTA5NTQzOTksLTEwNTcyNTAwNCwtMTMxNjUwMTM4XX0=
 -->
