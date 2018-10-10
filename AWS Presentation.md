@@ -100,7 +100,9 @@ Access the website from outside of Invesco network
 
 ![ELB With Auto Scaling](https://media.amazonwebservices.com/blog/2014/elb_auto_scale_instances_2.png)
 * Ensures high availability
-* Ensures 
+* Ensures that infrastructure scales to the processing needs
+
+
 
 ### When do we move to Cloud ?
  
@@ -130,7 +132,7 @@ Access the website from outside of Invesco network
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzcxODA3ODAsMTgyMTc0MTcwNSwtMT
+eyJoaXN0b3J5IjpbLTEzOTAxNzU2MTcsMTgyMTc0MTcwNSwtMT
 Y5MDgxNTU2MCwtMTg3Njg0OTg4Nyw0MjA0MDg3OTYsLTgwMjEw
 MDMwMCwtNjU2Nzc0NTE0LDE2NTMwNTQ5MzMsLTEwNzIyMjk0OS
 wxNjAyNDkxMDQ3LC0zNDQ1Nzk2NDksLTU3NDE5MTE2MSwtMjEw
