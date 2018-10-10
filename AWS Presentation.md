@@ -94,8 +94,13 @@ Access the website from outside of Invesco network
 ### Elastic Load Balancing
 
 ![ELB](https://media.amazonwebservices.com/blog/2014/elb_instances_1.png)
+* Helps making our servers highly available
 
-### E;lastic 
+### Elastic Load Balancing - using Auto Scaling
+
+![ELB With Auto Scaling](https://media.amazonwebservices.com/blog/2014/elb_auto_scale_instances_2.png)
+* Ensures high availability
+* Ensures 
 
 ### When do we move to Cloud ?
  
@@ -125,7 +130,7 @@ Access the website from outside of Invesco network
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDQ2MzU0MDEsMTgyMTc0MTcwNSwtMT
+eyJoaXN0b3J5IjpbLTEyMzcxODA3ODAsMTgyMTc0MTcwNSwtMT
 Y5MDgxNTU2MCwtMTg3Njg0OTg4Nyw0MjA0MDg3OTYsLTgwMjEw
 MDMwMCwtNjU2Nzc0NTE0LDE2NTMwNTQ5MzMsLTEwNzIyMjk0OS
 wxNjAyNDkxMDQ3LC0zNDQ1Nzk2NDksLTU3NDE5MTE2MSwtMjEw
