@@ -91,6 +91,12 @@ Access the website from outside of Invesco network
 * Load some sample table data
 *  Connect to the webserver
 
+### Elastic Load Balancing
+
+![ELB](https://media.amazonwebservices.com/blog/2014/elb_instances_1.png)
+
+### E;lastic 
+
 ### When do we move to Cloud ?
  
 * We can’t lock-stock-and-barrel goto cloud
@@ -119,10 +125,11 @@ Access the website from outside of Invesco network
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMTc0MTcwNSwtMTY5MDgxNTU2MCwtMT
-g3Njg0OTg4Nyw0MjA0MDg3OTYsLTgwMjEwMDMwMCwtNjU2Nzc0
-NTE0LDE2NTMwNTQ5MzMsLTEwNzIyMjk0OSwxNjAyNDkxMDQ3LC
-0zNDQ1Nzk2NDksLTU3NDE5MTE2MSwtMjEwMzI5ODE3MywtMjkz
-NDIwMjM5LDc5OTQxOTAxOCwyNDcwNDMxMzQsMTk5MDk1NDM5OS
-wtMTA1NzI1MDA0LC0xMzE2NTAxMzhdfQ==
+eyJoaXN0b3J5IjpbLTIxNDQ2MzU0MDEsMTgyMTc0MTcwNSwtMT
+Y5MDgxNTU2MCwtMTg3Njg0OTg4Nyw0MjA0MDg3OTYsLTgwMjEw
+MDMwMCwtNjU2Nzc0NTE0LDE2NTMwNTQ5MzMsLTEwNzIyMjk0OS
+wxNjAyNDkxMDQ3LC0zNDQ1Nzk2NDksLTU3NDE5MTE2MSwtMjEw
+MzI5ODE3MywtMjkzNDIwMjM5LDc5OTQxOTAxOCwyNDcwNDMxMz
+QsMTk5MDk1NDM5OSwtMTA1NzI1MDA0LC0xMzE2NTAxMzhdfQ==
+
 -->
