@@ -102,6 +102,9 @@ Access the website from outside of Invesco network
 * Ensures high availability
 * Ensures that infrastructure scales to the processing needs
 
+### API Gateway and Lambda
+
+![Lambda](https://cdn-images-1.medium.com/max/1600/1*RZaiM5ULzFiObnpqU2wShg.png)
 
 
 ### When do we move to Cloud ?
@@ -132,11 +135,10 @@ Access the website from outside of Invesco network
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTAxNzU2MTcsMTgyMTc0MTcwNSwtMT
-Y5MDgxNTU2MCwtMTg3Njg0OTg4Nyw0MjA0MDg3OTYsLTgwMjEw
-MDMwMCwtNjU2Nzc0NTE0LDE2NTMwNTQ5MzMsLTEwNzIyMjk0OS
-wxNjAyNDkxMDQ3LC0zNDQ1Nzk2NDksLTU3NDE5MTE2MSwtMjEw
-MzI5ODE3MywtMjkzNDIwMjM5LDc5OTQxOTAxOCwyNDcwNDMxMz
-QsMTk5MDk1NDM5OSwtMTA1NzI1MDA0LC0xMzE2NTAxMzhdfQ==
-
+eyJoaXN0b3J5IjpbLTY5NDk4NjUwMiwxODIxNzQxNzA1LC0xNj
+kwODE1NTYwLC0xODc2ODQ5ODg3LDQyMDQwODc5NiwtODAyMTAw
+MzAwLC02NTY3NzQ1MTQsMTY1MzA1NDkzMywtMTA3MjIyOTQ5LD
+E2MDI0OTEwNDcsLTM0NDU3OTY0OSwtNTc0MTkxMTYxLC0yMTAz
+Mjk4MTczLC0yOTM0MjAyMzksNzk5NDE5MDE4LDI0NzA0MzEzNC
+wxOTkwOTU0Mzk5LC0xMDU3MjUwMDQsLTEzMTY1MDEzOF19
 -->
