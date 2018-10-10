@@ -109,6 +109,8 @@ Access the website from outside of Invesco network
 * Lambda is server less
 * Inexpensive
 	* 
+### How might a OLAP solution look like?
+![OLAP](https://github.com/nkamatam/Presentation/blob/master/AWS%20for%20OLAP.png)
 
 
 ### When do we move to Cloud ?
@@ -139,10 +141,11 @@ Access the website from outside of Invesco network
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU2ODk4MjAzLDE4MjE3NDE3MDUsLTE2OT
-A4MTU1NjAsLTE4NzY4NDk4ODcsNDIwNDA4Nzk2LC04MDIxMDAz
-MDAsLTY1Njc3NDUxNCwxNjUzMDU0OTMzLC0xMDcyMjI5NDksMT
-YwMjQ5MTA0NywtMzQ0NTc5NjQ5LC01NzQxOTExNjEsLTIxMDMy
-OTgxNzMsLTI5MzQyMDIzOSw3OTk0MTkwMTgsMjQ3MDQzMTM0LD
-E5OTA5NTQzOTksLTEwNTcyNTAwNCwtMTMxNjUwMTM4XX0=
+eyJoaXN0b3J5IjpbLTE3NDUzMDkxNDQsODU2ODk4MjAzLDE4Mj
+E3NDE3MDUsLTE2OTA4MTU1NjAsLTE4NzY4NDk4ODcsNDIwNDA4
+Nzk2LC04MDIxMDAzMDAsLTY1Njc3NDUxNCwxNjUzMDU0OTMzLC
+0xMDcyMjI5NDksMTYwMjQ5MTA0NywtMzQ0NTc5NjQ5LC01NzQx
+OTExNjEsLTIxMDMyOTgxNzMsLTI5MzQyMDIzOSw3OTk0MTkwMT
+gsMjQ3MDQzMTM0LDE5OTA5NTQzOTksLTEwNTcyNTAwNCwtMTMx
+NjUwMTM4XX0=
 -->
