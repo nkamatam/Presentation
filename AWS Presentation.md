@@ -58,7 +58,7 @@ Let us try to build a simple Website using AWS
 * SSH to the server
 * Create a Table on the Database
 * Write a simple WebPage and move it to the server
-Access the website from outside of Invesco network
+Access the website from outside of corporate network
 
 
 
